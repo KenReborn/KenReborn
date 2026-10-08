@@ -7,7 +7,6 @@
 - 🌐 Frontend Development
 - ⚙️ Backend Development
 - 🚀 Full-Stack Development
-- 🤖 AI & Data Engineering
 
 ### Tools I Use
 
