@@ -15,4 +15,4 @@
 
 ### Right Now
 
-Just learning, building projects, breaking things, fixing them, and getting better one project at a time.
+Just learning, building projects, breaking things, fixing them, and getting better one project at a time..
