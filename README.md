@@ -4,9 +4,9 @@
 
 ### Currently Learning
 
-- 🌐 Frontend Development
-- ⚙️ Backend Development
-- 🚀 Full-Stack Development
+- Frontend Development
+- Backend Development
+- Full-Stack Development
 
 ### Tools I Use
 
