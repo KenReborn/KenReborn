@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm John Kenneth M. Padua 👋
 
-<!--
-**KenReborn/KenReborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+23-year-old student at Tagoloan Community College, currently learning how to build things with code.
 
-Here are some ideas to get you started:
+### Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Frontend Development
+- ⚙️ Backend Development
+- 🚀 Full-Stack Development
+- 🤖 AI & Data Engineering
+
+### Tools I Use
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Git` `VS Code`
+
+### Right Now
+
+Just learning, building projects, breaking things, fixing them, and getting better one project at a time.
