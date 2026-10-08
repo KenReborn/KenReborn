@@ -10,7 +10,7 @@
 
 ### Tools I Use
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Git` `VS Code`
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
 
 ### Right Now
 
