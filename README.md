@@ -9,7 +9,7 @@
 - Full-Stack Development
 
 <div align="center">
-    <p>### Tools I Use</p>
+    ### Tools I Use
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,mysql" />
   </a>
