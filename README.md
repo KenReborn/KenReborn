@@ -10,8 +10,11 @@
 
 ### Tools I Use
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,javscript,mysql" />
+  </a>
+</p>
 ### Right Now
 
 Just learning, building projects, breaking things, fixing them, and getting better one project at a time..
