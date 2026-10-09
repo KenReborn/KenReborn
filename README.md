@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🛠️ Tools I Use
+### 🛠️ Tools & Technologies
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,mysql" />
