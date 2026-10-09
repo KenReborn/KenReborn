@@ -1,4 +1,6 @@
-# Hey, I'm John Kenneth M. Padua
+<div align="center">
+  # Hey, I'm John Kenneth M. Padua
+</div>
 
 23-year-old student at Tagoloan Community College, currently learning how to build things with code.
 
