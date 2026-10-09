@@ -8,12 +8,12 @@
 - Backend Development
 - Full-Stack Development
 
-<p allign="center">### Tools I Use</p>
-<p align="center">
+<div align="center">
+    <p>### Tools I Use</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,mysql" />
   </a>
-</p>
+</div>
 ### Right Now
 
 Just learning, building projects, breaking things, fixing them, and getting better one project at a time..
