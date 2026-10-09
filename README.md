@@ -8,11 +8,10 @@
 - Backend Development
 - Full-Stack Development
 
-### Tools I Use
-
 <p align="center">
+  ### Tools I Use
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,javscript,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,mysql" />
   </a>
 </p>
 ### Right Now
