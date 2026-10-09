@@ -20,4 +20,16 @@
 
 ### Right Now
 
-Just learning, building projects, breaking things, fixing them, and getting better one project at a time..
+Just learning, building projects, breaking things, fixing them, and getting better one project at a time.
+
+<div align="center">
+
+[![KenReborn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KenReborn&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+[![KenReborn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default)](https://git.io/streak-stats)
+
+</div>
