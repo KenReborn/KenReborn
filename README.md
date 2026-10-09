@@ -13,7 +13,7 @@
 ### 🛠️ Tools & Technologies
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,mysql&perline=3" />
 </a>
 
 </div>
