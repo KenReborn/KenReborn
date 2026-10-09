@@ -30,6 +30,6 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 
 <div align="center">
 
-[![KenReborn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default)](https://git.io/streak-stats)
+[![KenReborn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default&count_private=true)](https://git.io/streak-stats)
 
 </div>
