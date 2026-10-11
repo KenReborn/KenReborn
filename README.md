@@ -8,7 +8,7 @@
 
 ### Currently Learning
 
-- Frontend Development
+- ## Frontend Development
 - Backend Development
 - Full-Stack Development
 
