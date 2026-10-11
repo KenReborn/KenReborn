@@ -6,7 +6,7 @@
 
 23-year-old student at Tagoloan Community College, currently learning how to build things with code.
 
-### Currently Learning
+## Currently Learning
 
 - ### Frontend Development
 - ### Backend Development
