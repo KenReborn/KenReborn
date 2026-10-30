@@ -28,7 +28,7 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 
 <div align="center">
 
-[![KenReborn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KenReborn&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![KenReborn's Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KenReborn&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -39,6 +39,5 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 </div>
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KenReborn&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenReborn&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&hide_border=true" />
 </div>
