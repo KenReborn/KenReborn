@@ -12,6 +12,11 @@
 - ### Backend Development
 - ### Full-Stack Development
 
+### Right Now
+
+Just learning, building projects, breaking things, fixing them, and getting better one project at a time.
+
+
 <div align="center">
 
 ### 🛠️ Tools & Technologies
@@ -21,10 +26,6 @@
 </a>
 
 </div>
-
-### Right Now
-
-Just learning, building projects, breaking things, fixing them, and getting better one project at a time.
 
 <div align="center">
 
@@ -37,5 +38,5 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenReborn&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/KenReborn/KenReborn/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </div>
