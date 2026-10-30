@@ -33,9 +33,7 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 </div>
 
 <div align="center">
-
-[![KenReborn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default&count_private=true&)](https://git.io/streak-stats)
-
+  <img src="https://raw.githubusercontent.com/KenReborn/KenReborn/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <div align="center">
