@@ -38,5 +38,9 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KenReborn/KenReborn/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KenReborn/KenReborn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KenReborn/KenReborn/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KenReborn/KenReborn/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
