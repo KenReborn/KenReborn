@@ -37,3 +37,8 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 [![KenReborn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default&count_private=true&)](https://git.io/streak-stats)
 
 </div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KenReborn&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&hide_border=true)
+</div>
