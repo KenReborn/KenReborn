@@ -34,7 +34,7 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default&count_private=true&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenReborn&theme=default&count_private=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
