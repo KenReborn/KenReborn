@@ -35,7 +35,7 @@ Just learning, building projects, breaking things, fixing them, and getting bett
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KenReborn&theme=default&cache=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KenReborn&theme=default&" alt="GitHub Streak" />
 </div>
 
 <div align="center">
